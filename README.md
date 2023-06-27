@@ -7,19 +7,15 @@
 * Blog
 * Licensing, Authors, Acknowledgements
 
-## 📝Project Description
-The goal of this project is to predict which people are most likely to become customers of Arvato, a German company. It is based on an analysis of customer demographics compared to the demographic information of the general population in Germany.
-
-The data used was provided by Bertelsmann Arvato Analytics, and the information was worked out:
-
-* Data preparation
-* Unsupervised learning techniques:
-  - Perform customer segmentation
-  - Identify the parts of the population that best describe the company's customer base.
-* Supervised learning techniques
-  - Predict which individuals are most likely to become customers.
-
+## 🗒️Project Description
+The goal of this project is to predict which people are most likely to become customers of Arvato Financial Services, a German company. It is based on an analysis of customer demographics compared to the demographic information of the general population in Germany.
 The above analysis will be used to predict which individuals will respond to the marketing campaign so that the company can target them rather than the entire population. 
+
+The goal of the project is to predict whether individuals in the general population will become new customers.
+In order to develop this project and achieve the objective, it will be carried out in 3 steps:
+The pre-processing and dispute of data to know the data.
+Unsupervised learning to perform a segmentation
+Supervised learning to predict whether individuals in the general population are likely to become clients for Arvato Financial Services
 
 ## 🔌Installation
 Developed with Python 3 with libraries of:
