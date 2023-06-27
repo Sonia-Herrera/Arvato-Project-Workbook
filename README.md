@@ -8,8 +8,9 @@
 * Licensing, Authors, Acknowledgements
 
 ## 🗒️Project Description
-The goal of this project is to predict which people are most likely to become customers of Arvato Financial Services, a German company. It is based on an analysis of customer demographics compared to the demographic information of the general population in Germany.
-The above analysis will be used to predict which individuals will respond to the marketing campaign so that the company can target them rather than the entire population. 
+The Bertelsmann/Arvato project gives us the opportunity to find the relationship between the demographics of the customers of a mail order company in Germany and the demographic information of the general population, through data science. This challenge involves making use of unsupervised learning techniques, such as customer segmentation to find the characteristics that best describe the company's customer base. As well as the use of supervised learning to train a model capable of predicting which individuals are more likely to become customers of the company.
+
+This project is based on real data provided by Arvato Financial Service and uses different tools and techniques for data processing, statistical analysis and predictive modeling to make strategic decisions.
 
 The goal of the project is to predict whether individuals in the general population will become new customers.
 In order to develop this project and achieve the objective, it will be carried out in 3 steps:
