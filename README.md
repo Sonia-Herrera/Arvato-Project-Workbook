@@ -41,7 +41,7 @@ There are also two Excel spreadsheets that provide more information about the co
 * DIAS Attributes — Values 2017.xlsx is a detailed mapping of data values for each feature in alphabetical order.
 
 ## 📰Blog
-The results to the questions are published in this [blog]()
+The results to the questions are published in this [blog](https://medium.com/@scherrera/getting-to-know-new-customers-through-data-science-e5f961e40307)
 
 
 ## 📚Licensing, Authors, Acknowledgements
